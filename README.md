@@ -6,9 +6,9 @@ Email: [laurylopes@gmail.com](laurylopes@gmail.com)\
 Phone number: [+447445346859](tel:0447445346859)
 
 ### Intro
-Hello, 👋
+Hello,👋  
 
 Welcome to my website! 
 
-I am so excited to share with you everything that I know about data analysis. 📊
+I am so excited to share with you everything that I know about data analysis. 🧚 
 
