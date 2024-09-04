@@ -1,8 +1,10 @@
 # Laury Lopes
-Contact:
+#### Contact:\
 [Linkedin](https://www.linkedin.com/in/laury-lopes/)\
 [Email](laurylopes@gmail.com)\
 [Phone](tel:+447445346859)
+
+Hello, 
 
 Welcome to my website! 
 
