@@ -1,4 +1,4 @@
-# Laury Lopes\
+# Laury Lopes
 [website](https://laurylopes.github.io)\
 [linkedin](https://www.linkedin.com/in/laury-lopes/)\
 [laurylopes@gmail.com](laurylopes@gmail.com)\
