@@ -10,5 +10,5 @@ Hello,👋
 
 Welcome to my website! 
 
-I am so excited to share with you everything that I know about data analysis. 🧚 
+I am excited to share with you everything that I know about data analysis. 🧚 
 
