@@ -1,8 +1,8 @@
-# Laury Lopes
-[website](https://laurylopes.github.io)
-[linkedin](https://www.linkedin.com/in/laury-lopes/)
-[laurylopes@gmail.com](laurylopes@gmail.com)
-[123-456-7890](tel:1234567890) 
+# Laury Lopes\
+[website](https://laurylopes.github.io)\
+[linkedin](https://www.linkedin.com/in/laury-lopes/)\
+[laurylopes@gmail.com](laurylopes@gmail.com)\
+[+44-7445-346859](tel:+447445346859)\
 
 Welcome to my website! 
 
