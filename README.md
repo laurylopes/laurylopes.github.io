@@ -12,6 +12,8 @@ How you got started in data analysis
 What about data interests you most
 
 Where your passions lie in relation to data analytics
+
+Data analyst as an autist
 #
 ### Contact
 Linkedin: [https://www.linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes)\
