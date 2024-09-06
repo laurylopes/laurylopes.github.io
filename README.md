@@ -12,3 +12,9 @@ Welcome to my website!
 
 I am excited to share with you everything that I know about data analysis. 🧚 
 
+#
+How you got started in data analysis
+
+What about data interests you most
+
+Where your passions lie in relation to data analytics
