@@ -4,16 +4,13 @@ Hello,👋
 
 Welcome to my website! 
 
-I am excited to share with you everything that I know about data analysis. 🧚 
+I am excited to share with you everything I know about data analysis. 🧚 
 
 #
-How you got started in data analysis
+I began my journey as a data analyst with SQL during the pandemic. Before that, while working in a scientific lab, I was already performing data analysis and visualization using Excel and other tools. In science, decisions are driven by data collected from experiments.
 
-What about data interests you most
+What excites me most about working with data is the ability to extract valuable insights and use them to guide business decisions. I also enjoy the vast and complex nature of the field. Most importantly, I love being a data pioneer—sharing best practices and my knowledge with others!
 
-Where your passions lie in relation to data analytics
-
-Data analyst as an autist
 #
 ### Contact
 Linkedin: [https://www.linkedin.com/in/laury-lopes](https://www.linkedin.com/in/laury-lopes)\
