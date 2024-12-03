@@ -2,7 +2,7 @@
 # About me
 Hello,👋  
 
-Welcome to my website! 
+Welcome to my github! 
 
 I am excited to share with you everything I know about data analysis. 🧚 
 
